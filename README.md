@@ -6,4 +6,7 @@ There are two branches:
 
 The code requires the folder strucutres available in the .zip file.
 perl_batch_192.m is a Matlab code that runs as a Dos .bat file, and requires PERL. 
-sleep_analysis_2020.m is a Matlab code written for Windows.
+sleep_analysis_2020.m is a Matlab code (tested on R2019 and newer versions) written for Windows.
+Installing should take less than 5 minutes.
+
+
